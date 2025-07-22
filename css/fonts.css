@@ -1,0 +1,12 @@
+@font-face {
+  font-display: swap;
+  font-family: "CMU Serif";
+  src: local("CMU Serif"), url('../fonts/cmunrm.woff2') format("woff2");
+}
+
+@font-face {
+  font-display: swap;
+  font-family: "CMU Serif";
+  src: local("CMU Serif"), url('../fonts/cmunbx.woff2') format("woff2");
+  font-weight: 700;
+}
